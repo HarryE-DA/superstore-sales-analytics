@@ -32,7 +32,7 @@ The project identifies key business insights and provides strategic recommendati
 
 ## Dashboard Preview
 
-![Dashboard Screenshot]([images/Dashboard_Screenshot.png](https://github.com/HarryE-DA/superstore-sales-analytics/blob/main/images/Dashboard_screenshot.png))
+![Dashboard Screenshot](images/Dashboard_screenshot.png)
 
 ---
 
